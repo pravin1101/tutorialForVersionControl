@@ -1,2 +1,4 @@
 hi 
 this is my first git CLI file.
+added a new line for checking commit
+
