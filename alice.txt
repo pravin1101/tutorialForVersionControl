@@ -1,3 +1,2 @@
 hi 
-this is my first git cli
-file.
+this is my first git CLI file.
